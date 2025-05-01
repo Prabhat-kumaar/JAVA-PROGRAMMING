@@ -4,6 +4,7 @@
  *          dataType variableName = value; 
 */
 
+        //We are working on primitiv data types
 public class VariablesWithThereDatatype {
     public static void main(String[] args) {
 
@@ -26,11 +27,6 @@ public class VariablesWithThereDatatype {
         System.out.println("double value: " + d);
         System.out.println("char value: " + c);
         System.out.println("boolean value: " + bool);
-        
-        
-        
-
-    }
-
-    
+    }    
 }
+
